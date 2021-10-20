@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/yj1q0xj90sle/public_html/jenkins.syamilthoughts.com
+    - export DEPLOYPATH=/home/yj1q0xj90sle/public_html/jenkins.syamilthoughts.com/
     - /bin/cp -R images $DEPLOYPATH
